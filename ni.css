@@ -78,3 +78,16 @@ h2{
     font-size: 30px;
     color: salmon;
 }
+.edu-table{
+    width: 80%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+.edu-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}
+.edu-table th {
+    text:bold;
+}
